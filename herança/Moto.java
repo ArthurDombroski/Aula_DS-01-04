@@ -1,7 +1,7 @@
 package herança;
 
 public class Moto extends Veiculo {
-    int motor;
+    private int motor;
 
     public Moto(){
         super();
